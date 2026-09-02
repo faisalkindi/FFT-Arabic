@@ -309,7 +309,7 @@ namespace FftArabic
 
             var subtitle = new Label
             {
-                Text = "التعريب العربي الكامل",
+                Text = "التعريب الكامل",
                 Font = Ui.F(15f, FontStyle.Bold),
                 ForeColor = Ui.Gold,
                 AutoSize = false,
