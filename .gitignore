@@ -10,3 +10,4 @@ installer/publish/
 # local
 __pycache__/
 *.log
+FFT_Arabic_*.zip
