@@ -1,0 +1,12 @@
+# shipped mod payload (game-derived pacs; 0008.pac is 146MB) — ships via GitHub Releases / Nexus
+installer/payload/
+installer/payload.zip
+
+# installer build outputs
+installer/bin/
+installer/obj/
+installer/publish/
+
+# local
+__pycache__/
+*.log

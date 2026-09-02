@@ -1,0 +1,68 @@
+[center][size=6][b]فاينل فانتازي تاكتيكس — سجلّات إيڤاليس[/b][/size]
+[size=5][b]Arabic Localization — التعريب الكامل[/b][/size]
+[size=3]Modern Standard Arabic (MSA) • by Kindiboy[/size][/center]
+
+[line]
+
+[size=5][b]▐ Overview — نبذة[/b][/size]
+
+A complete [b]Modern Standard Arabic[/b] localization for [b]FINAL FANTASY TACTICS – The Ivalice Chronicles[/b] (Enhanced). Every line of dialogue, all menus, items, abilities, jobs, lore entries, the journal and the in-game sound-novels are translated into fully-shaped, right-to-left Arabic — including the title logo and the opening & ending cinematic captions. The voice acting is untouched and follows whatever you choose in the game's own settings.
+
+تعريبٌ كاملٌ باللغة [b]العربية الفصحى[/b] للعبة [b]فاينل فانتازي تاكتيكس – سجلّات إيڤاليس[/b] (النسخة المحسّنة). كل الحوارات والقوائم والأصناف والقدرات والوظائف وموسوعة العالم واليوميّات والروايات مُترجمةٌ إلى عربيةٍ سليمةِ التشكيل تُكتَب من اليمين إلى اليسار — بما في ذلك شعار اللعبة وترجمات المشاهد السينمائية في المقدمة والنهاية. الأداء الصوتي يبقى كما هو ويتبع اختيارك من إعدادات اللعبة.
+
+[line]
+
+[size=5][b]▐ Features — المزايا[/b][/size]
+[list]
+[*][b]Full MSA translation[/b] — dialogue, menus, items, abilities, jobs, lore, journal & sound-novels
+[*][b]Proper right-to-left (RTL)[/b] Arabic shaping and justification across the whole interface
+[*][b]Arabic title logo[/b]
+[*][b]Arabic cinematic captions[/b] — the opening narration and the ending epilogue
+[*][b]Original voice acting preserved[/b] — movie and character audio follow your in-game Voice setting
+[*][b]Instant dialogue text[/b] bundled in (no waiting for the typewriter effect)
+[*][b]One-click installer[/b] with a clean uninstall that restores your original files
+[/list]
+
+[line]
+
+[size=5][b]▐ Requirements — المتطلبات[/b][/size]
+[list]
+[*][b]FINAL FANTASY TACTICS – The Ivalice Chronicles[/b] (Steam) — [b]Enhanced[/b] mode
+[*][url=https://dotnet.microsoft.com/en-us/download/dotnet/8.0][b].NET 8 Desktop Runtime[/b][/url] (needed by the installer only — free from Microsoft)
+[/list]
+
+[line]
+
+[size=5][b]▐ Installation — التثبيت[/b][/size]
+[list=1]
+[*]Install the [b].NET 8 Desktop Runtime[/b] if you don't already have it.
+[*]Run [b]FFT Arabic Installer.exe[/b]. It auto-detects your Steam copy of the game — click [b]Install[/b].
+[*]Launch the game. In the main-menu options, set [b]Text Language (Enhanced) → English[/b], and set the [b]Voice[/b] language to whatever you prefer.
+[*]Enjoy the game in Arabic.
+[/list]
+
+[b]To uninstall — لإلغاء التثبيت:[/b] run the installer again and choose [b]Uninstall[/b]. It restores the original game files from the backup it made.
+
+خطوات التثبيت: ثبّت حزمة [b].NET 8 Desktop Runtime[/b] إن لم تكن موجودة، ثم شغّل [b]FFT Arabic Installer.exe[/b] واضغط [b]Install[/b]. بعد تشغيل اللعبة اضبط [b]لغة النص (المحسّنة) على English[/b]، واختر لغة الصوت التي تريدها. لإلغاء التعريب أعد تشغيل المثبّت واختر [b]Uninstall[/b].
+
+[line]
+
+[size=5][b]▐ Notes — ملاحظات مهمة[/b][/size]
+[list]
+[*]The Arabic text rides on the game's [b]English (.en)[/b] language slot, so keep the in-game [b]Text Language set to English[/b].
+[*]Made for the [b]Enhanced[/b] edition.
+[*]Using Steam's [b]"Verify integrity of game files"[/b] will roll the mod back — just re-run the installer afterwards.
+[*]The audio language is entirely up to you — this mod never changes it.
+[/list]
+
+يعتمد التعريب على خانة اللغة الإنجليزية [b].en[/b] في اللعبة، لذا أبقِ لغة النص داخل اللعبة على [b]English[/b]. المود مخصّص للنسخة [b]المحسّنة[/b]. التحقق من سلامة ملفات اللعبة عبر ستيم سيُلغي المود، وما عليك سوى إعادة تشغيل المثبّت.
+
+[line]
+
+[size=5][b]▐ Credits — شكر وتقدير[/b][/size]
+[list]
+[*]Localization, fonts, textures & installer — [b]Kindiboy[/b]
+[*][url=https://github.com/Nenkai/FF16Tools]FF16Tools[/url] and the FFT: The Ivalice Chronicles Mod Loader — [b]Nenkai[/b]
+[/list]
+
+[center][size=3]Not affiliated with or endorsed by Square Enix. FINAL FANTASY TACTICS is a trademark of Square Enix. This is a free, fan-made localization.[/size][/center]
